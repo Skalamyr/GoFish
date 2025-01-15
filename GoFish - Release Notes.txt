@@ -1,0 +1,21 @@
+Release Notes
+
+Game Project: Go Fish
+Creator: Gabriel Castaneira
+Version: 2.0
+Date:  1/15/2024
+
+New features
+- The avatar sprite is now directional and will face either Left or Right based on input.
+- Implemented a visible Ending sprite to finish the game at the party.
+
+Fixes
+- Several dialogue prompts in their spacing were adjusted for proper dialogue flow.
+
+Improvements
+- All fish you invite to the party now have random conversational dialogue when interacted.
+- All fish at the party now have random conversational dialogue when interacted.
+
+Known Bugs
+- The directional flipping mechanic of your avatar reverses directions when being teleported to another room.
+
